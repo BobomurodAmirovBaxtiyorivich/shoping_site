@@ -1,0 +1,30 @@
+.products{
+    display: flex;
+    justify-content: space-between;
+}
+
+.product{
+    width: 250px;
+    text-align: center;
+    margin-top: 10px;
+    background-color: azure;
+}
+
+.product-img{
+    width: 245px;
+    border-radius: 15px;
+}
+
+.product-title{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.buy{
+    width: 60%;
+    background-color: gold;
+    border-radius: 30px;
+}
+
+.buy:hover{
+    background-color: burlywood;
+}
